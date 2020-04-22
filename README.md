@@ -25,6 +25,5 @@ Es una plataforma que no dominará el mundo del desarrollo web pero si que
 satisface las necesidades de una gran mayoría de programadores.
 
 
-
-# Resulado
+# Resultado
 ![Captura de pantalla (68)](https://user-images.githubusercontent.com/61463784/80029453-6a3f5c00-84ac-11ea-9c4a-d18bfdf98f1b.png)
