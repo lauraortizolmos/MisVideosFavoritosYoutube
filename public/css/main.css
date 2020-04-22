@@ -1,0 +1,51 @@
+body {
+    background: url('https://4kwallpaper.wiki/wp-content/uploads/2019/07/361385.jpg');
+    background-attachment: fixed;
+    /*background: -webkit-linear-gradient(to right, rgb(243, 157, 217), rgb(139, 243, 217), rgb(103, 186, 192));
+    background: linear-gradient(to right, rgb(245, 156, 185), #CF8BF3, rgb(154, 248, 236));*/
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+}
+
+.nav-link {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+}
+
+header img {
+    width: 60%;
+}
+
+
+/* Página de inicio*/
+
+.container {
+    padding: 50px;
+    padding-top: 20px;
+    display: block;
+}
+
+.container .image {
+    float: left;
+    width: 49%;
+}
+
+.video {
+    list-style: none;
+    display: block;
+    float: left;
+    width: 28%;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+#lista li {
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px;
+}
